@@ -6,7 +6,6 @@ const App = () => {
   return (
     <div>
       <h1>My Task List</h1>
-      <Task />
     </div>
   );
 };
